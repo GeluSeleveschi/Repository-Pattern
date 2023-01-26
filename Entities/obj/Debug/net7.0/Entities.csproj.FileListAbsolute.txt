@@ -1,0 +1,24 @@
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\bin\Debug\net7.0\Entities.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\bin\Debug\net7.0\Entities.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\bin\Debug\net7.0\Entities.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\Entities\obj\Debug\net7.0\ref\Entities.dll

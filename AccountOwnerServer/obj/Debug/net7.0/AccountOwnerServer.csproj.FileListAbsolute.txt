@@ -1,0 +1,163 @@
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\appsettings.Development.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\appsettings.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.exe
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.deps.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.runtimeconfig.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\NLog.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Contracts.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\LoggerService.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\LoggerService.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Contracts.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.AssemblyReference.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.Properties.Resources.resources
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.GenerateResource.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.AssemblyInfoInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.AssemblyInfo.cs
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.CoreCompileInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.AccountOwnerServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.build.AccountOwnerServer.props
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AccountOwnerServer.props
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AccountOwnerServer.props
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets.build.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets.development.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\scopedcss\bundle\AccountOwnerServer.styles.css
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.CopyComplete
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\refint\AccountOwnerServer.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.genruntimeconfig.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\ref\AccountOwnerServer.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Entities.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Entities.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Azure.Core.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Azure.Identity.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Repository.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Repository.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AutoMapper.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\appsettings.Development.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\appsettings.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.exe
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.deps.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.runtimeconfig.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AccountOwnerServer.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AutoMapper.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Azure.Core.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Azure.Identity.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\NLog.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Contracts.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Entities.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Repository.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Repository.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Contracts.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Entities.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.AssemblyReference.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.Properties.Resources.resources
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.GenerateResource.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.AssemblyInfoInputs.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.AssemblyInfo.cs
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.CoreCompileInputs.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.AccountOwnerServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.build.AccountOwnerServer.props
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AccountOwnerServer.props
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AccountOwnerServer.props
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets.build.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\staticwebassets.development.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\scopedcss\bundle\AccountOwnerServer.styles.css
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.csproj.CopyComplete
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\refint\AccountOwnerServer.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\AccountOwnerServer.genruntimeconfig.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\obj\Debug\net7.0\ref\AccountOwnerServer.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Web.Http.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\AccountOwnerServer\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll

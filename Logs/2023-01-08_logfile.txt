@@ -1,0 +1,1 @@
+2023-01-08 21:37:09.5646 INFO Returned all owners from database.

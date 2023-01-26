@@ -1,0 +1,12 @@
+2023-01-13 08:35:54.3696 INFO Returned all owners from database.
+2023-01-13 08:37:12.9860 INFO Returned all owners from database.
+2023-01-13 08:37:47.2618 INFO Returned all owners from database.
+2023-01-13 08:39:14.8270 INFO Returned all owners from database.
+2023-01-13 08:39:46.9444 INFO Returned all owners from database.
+2023-01-13 08:42:20.0105 INFO Returned all owners from database.
+2023-01-13 08:44:24.9568 INFO Returned all owners from database.
+2023-01-13 08:44:59.7108 INFO Returned all owners from database.
+2023-01-13 08:45:15.4880 INFO Returned all owners from database.
+2023-01-13 08:46:22.3752 INFO Returned all owners from database.
+2023-01-13 08:47:54.1368 INFO Returned all owners from database.
+2023-01-13 08:48:10.2430 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906

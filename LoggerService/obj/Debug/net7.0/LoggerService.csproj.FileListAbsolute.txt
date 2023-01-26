@@ -1,0 +1,34 @@
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Contracts.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Contracts.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Entities.dll
+D:\AccountOwnerServer\AccountOwnerServer\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Entities.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Contracts.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Entities.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Contracts.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\bin\Debug\net7.0\Entities.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Personal Repository\OwnerAccount - .NET Core 7 - Angular Material\OwnerAccount---Angular-Materia-.NET-Core-7\AccountOwnerServer\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll

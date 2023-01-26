@@ -1,0 +1,30 @@
+2023-01-07 18:47:28.9315 INFO Returned all owners from database.
+2023-01-07 19:41:56.9967 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 19:42:08.0693 ERROR Something went wrong inside GetOwnerById action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Owner -> OwnerDTO
+Entities.Models.Owner -> Entities.DataTransferObjects.OwnerDTO
+2023-01-07 19:42:19.1708 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 19:42:32.5578 ERROR Something went wrong inside GetOwnerById action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Owner -> OwnerDTO
+Entities.Models.Owner -> Entities.DataTransferObjects.OwnerDTO
+2023-01-07 19:42:40.2859 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 19:54:37.8997 ERROR Something went wrong inside GetOwnerById action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Owner -> OwnerDTO
+Entities.Models.Owner -> Entities.DataTransferObjects.OwnerDTO
+2023-01-07 20:00:29.8417 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:00:54.6942 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:03:37.5734 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:04:07.7214 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:04:31.7697 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:21:09.9794 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:26:35.2417 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 20:29:55.0420 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-01-07 22:29:22.9023 INFO Returned owner with id: cc4442b1-379c-48f9-9a69-08daf0eb5af3
+2023-01-07 22:32:44.6227 INFO Returned owner with id: cc4442b1-379c-48f9-9a69-08daf0eb5af3
+2023-01-07 22:33:00.5571 INFO Returned owner with id: cc4442b1-379c-48f9-9a69-08daf0eb5af3
